@@ -6,11 +6,11 @@ Follow **[docs/roadmap.md](docs/roadmap.md)** for what to do next; it maps onto 
 
 ## Phase 0 — Orientation
 
-- [ ] 1. Register on Anthropic Academy
-- [ ] 2. Read `docs/exam-overview.md`
-- [ ] 3. Read `docs/exam-strategy.md`
-- [ ] 4. Read `docs/scenarios.md`
-- [ ] 5. Read `cheatsheets/decision-rules.md`
+- [x] 1. Register on Anthropic Academy
+- [x] 2. Read `docs/exam-overview.md`
+- [x] 3. Read `docs/exam-strategy.md`
+- [x] 4. Read `docs/scenarios.md`
+- [x] 5. Read `cheatsheets/decision-rules.md`
 
 Official practice exam score: ____  
 Exam date: ________
