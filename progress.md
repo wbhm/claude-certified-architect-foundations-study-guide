@@ -19,13 +19,13 @@ Exam date: ________
 
 Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-courses.md](docs/academy-courses.md).
 
-- [ ] A. AI Fluency: Framework & Foundations (100) — optional if already fluent
-- [ ] B. Claude 101 (100)
-- [ ] C. Building with the Claude API (100–200) — start alongside Phase 1
-- [ ] D. Claude with Amazon Bedrock (100–200) — only if you use Bedrock
-- [ ] E. Claude on Google Cloud (100–200) — only if you use GCP
-- [ ] F. Introduction to Model Context Protocol (200)
-- [ ] G. Claude Code in Action (200)
+- [x] A. AI Fluency: Framework & Foundations (100) — optional if already fluent
+- [x] B. Claude 101 (100)
+- [x] C. Building with the Claude API (100–200) — start alongside Phase 1
+- [x] D. Claude with Amazon Bedrock (100–200) — only if you use Bedrock
+- [x] E. Claude on Google Cloud (100–200) — only if you use GCP
+- [x] F. Introduction to Model Context Protocol (200)
+- [x] G. Claude Code in Action (200)
 
 ## Phase 1 — Domain 1 (27%)
 
