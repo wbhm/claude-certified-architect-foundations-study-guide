@@ -42,7 +42,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 ## Phase 2 — Domain 2 then Domain 5
 
 - [x] 15. Domain 2 files 2.1–2.5 — 26 Sep 2026
-- [ ] 16. Domain 2 practice: 6 / 7 (target 6+) — 26 Sep 2026, then exercise 5 (`docs/exercises.md`)
+- [x] 16. Domain 2 practice: 6 / 7 (target 6+) — 26 Sep 2026, then exercise 5 (`docs/exercises.md`) — 26 Sep 2026
 - [ ] 17. Domain 5 files 5.1–5.6
 - [ ] 18. Domain 5 practice: ___ / 6 (target 5+)
 - [ ] 19. Exercise 1 hardened (structured errors, gate, handoff) **or** exercise 4 started
