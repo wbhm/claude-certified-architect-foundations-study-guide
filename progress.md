@@ -37,7 +37,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] 11. 1.6 Task decomposition — 25 Sep 2026
 - [x] 12. 1.7 Session state — 25 Sep 2026
 - [x] 13. Domain 1 practice: 9 / 10 (target 8+) — 26 Sep 2026
-- [ ] 14. Exercise 1 — support agent with real loop (`docs/exercises.md`)
+- [x] 14. Exercise 1 — support agent with real loop (`docs/exercises.md`) — 26 Sep 2026
 
 ## Phase 2 — Domain 2 then Domain 5
 
