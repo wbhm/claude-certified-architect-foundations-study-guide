@@ -58,7 +58,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 
 ## Phase 4 — Lock together
 
-- [ ] 26. Exercise 4 finished (research pipeline)
+- [x] 26. Exercise 4 finished (research pipeline) — 26 Sep 2026
 - [ ] 27. Decision rules from memory
 - [ ] 28. Mixed set: ___ / 12 (target 10+)
 - [ ] 29. Official Academy practice exam
