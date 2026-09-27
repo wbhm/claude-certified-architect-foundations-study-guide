@@ -13,7 +13,7 @@ Follow **[docs/roadmap.md](docs/roadmap.md)** for what to do next; it maps onto 
 - [x] 5. Read `cheatsheets/decision-rules.md`
 
 Official practice exam score: ____  
-Exam date: ________
+Exam date: 9 Oct 2026
 
 ## Official Academy courses
 
@@ -49,8 +49,8 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 
 ## Phase 3 — Domain 3 then Domain 4
 
-- [ ] 20. Domain 3 files 3.1–3.6
-- [ ] 21. Domain 3 practice: ___ / 8 (target 7+)
+- [x] 20. Domain 3 files 3.1–3.6 — 27 Sep 2026
+- [x] 21. Domain 3 practice: 8 / 8 (target 7+) — 27 Sep 2026
 - [ ] 22. Exercise 2 — Claude Code team workflow (`docs/exercises.md`)
 - [ ] 23. Domain 4 files 4.1–4.6
 - [ ] 24. Domain 4 practice: ___ / 8 (target 7+)
