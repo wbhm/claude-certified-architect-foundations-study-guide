@@ -52,8 +52,8 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] 20. Domain 3 files 3.1–3.6 — 27 Sep 2026
 - [x] 21. Domain 3 practice: 8 / 8 (target 7+) — 27 Sep 2026
 - [x] 22. Exercise 2 — Claude Code team workflow (`docs/exercises.md`) — 27 Sep 2026 (guided audit of the repo's artefacts, 5 / 6 audit questions; `-p` hang proved live: no `-p` + TTY → exit 124 after 20 s, `-p` → exit 0)
-- [ ] 23. Domain 4 files 4.1–4.6
-- [ ] 24. Domain 4 practice: ___ / 8 (target 7+)
+- [x] 23. Domain 4 files 4.1–4.6 — 27 Sep 2026
+- [x] 24. Domain 4 practice: 8 / 8 (target 7+) — 27 Sep 2026
 - [ ] 25. Exercise 3 — extraction pipeline (`docs/exercises.md`)
 
 ## Phase 4 — Lock together
