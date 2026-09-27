@@ -54,7 +54,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] 22. Exercise 2 — Claude Code team workflow (`docs/exercises.md`) — 27 Sep 2026 (guided audit of the repo's artefacts, 5 / 6 audit questions; `-p` hang proved live: no `-p` + TTY → exit 124 after 20 s, `-p` → exit 0)
 - [x] 23. Domain 4 files 4.1–4.6 — 27 Sep 2026
 - [x] 24. Domain 4 practice: 8 / 8 (target 7+) — 27 Sep 2026
-- [ ] 25. Exercise 3 — extraction pipeline (`docs/exercises.md`)
+- [x] 25. Exercise 3 — extraction pipeline (`docs/exercises.md`) — 27 Sep 2026 (built in `../exercises/ex3-extraction-pipeline/`: prompt-only JSON 10/10 parse failures vs 0/20 with `tool_use`; required `po_number` → string `'null'` 3/3; absent PO stops at needs_human; few-shot 73/80 → 73/80 (layout) → 80/80 (boundary examples); field-level retry run live via injected failure. Batches (optional) not done)
 
 ## Phase 4 — Lock together
 
