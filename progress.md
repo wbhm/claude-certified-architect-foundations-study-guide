@@ -59,7 +59,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 ## Phase 4 — Lock together
 
 - [x] 26. Exercise 4 finished (research pipeline) — 26 Sep 2026
-- [ ] 27. Decision rules from memory
+- [x] 27. Decision rules from memory — 27–28 Sep 2026 (multiple-choice drill, one item per row: 73 / 75; misses 4.10 interacting fixes → one message, 4.19 `--continue` for last session — both in weak-spots)
 - [ ] 28. Mixed set: ___ / 12 (target 10+)
 - [ ] 29. Official Academy practice exam
 - [ ] 30. Re-read missed task files only — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
