@@ -12,7 +12,8 @@ Follow **[docs/roadmap.md](docs/roadmap.md)** for what to do next; it maps onto 
 - [x] 4. Read `docs/scenarios.md`
 - [x] 5. Read `cheatsheets/decision-rules.md`
 
-Official practice exam score: ____  
+Official practice exam score: n/a — no official practice exam exists (retired at the 30 Jun 2026 Pearson move; the exam guide PDF has sample questions instead)  
+Mock exam (60 items, 4 random scenarios, untimed): **55 / 60 (92%)** — 4 Oct 2026. D1 14/16 · D2 9/11 · D3 11/12 · D4 12/12 · D5 9/9; 8/8 select-TWO. Misses (Q4 1.2, Q21 1.7, Q23 2.1, Q32 3.1, Q42 2.5) logged OPEN in `progress/weak-spots.md`  
 Exam date: 9 Oct 2026
 
 ## Official Academy courses
@@ -26,6 +27,10 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] E. Claude on Google Cloud (100–200) — only if you use GCP
 - [x] F. Introduction to Model Context Protocol (200)
 - [x] G. Claude Code in Action (200)
+- [x] Claude Platform 101 — not in the original A–G list; completed
+- [x] Claude Code 101 — not in the original A–G list; completed
+- [x] Introduction to agent skills — not in the original A–G list; completed 14 Aug 2026 (partner portal)
+- [x] Model Context Protocol: Advanced Topics — not in the original A–G list; completed 20 Sep 2026 (partner portal)
 
 ## Phase 1 — Domain 1 (27%)
 
@@ -61,8 +66,8 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] 26. Exercise 4 finished (research pipeline) — 26 Sep 2026
 - [x] 27. Decision rules from memory — 27–28 Sep 2026 (multiple-choice drill, one item per row: 73 / 75; misses 4.10 interacting fixes → one message, 4.19 `--continue` for last session — both in weak-spots)
 - [x] 28. Mixed set: 12 / 12 (target 10+) — 29 Sep 2026
-- [ ] 29. Official Academy practice exam
-- [ ] 30. Re-read missed task files only — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
+- [x] 29. Official Academy practice exam — N/A, confirmed 4 Oct 2026: none exists. Substitute: sample questions in the official Exam Guide PDF (anthropic-partners.skilljar.com CCA-F page)
+- [x] 30. Re-read missed task files only — 4 Oct 2026: 3 / 3 VERIFY rows passed cold (1.7, 3.3, 3.5); ledger fully CLOSED, no re-reads needed. — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
 
 ## Scenario check (after phase 4, or as you hit them)
 
