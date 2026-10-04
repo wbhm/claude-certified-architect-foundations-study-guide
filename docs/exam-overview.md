@@ -8,14 +8,19 @@ You are expected to have roughly six months of hands-on work with Claude APIs, t
 
 ## Format
 
-- 60 multiple-choice questions
-- 120 minutes (~2 minutes per question)
-- One correct answer, three plausible distractors
-- Closed book, no AI assistance
+Source: the official Exam Guide v1.0 (July 2026) — download it from the certification page on the Anthropic Partner Academy. It is the authoritative reference.
+
+- Exam code **CCAR-F**
+- 60 items, 120 minutes (~2 minutes per item)
+- **Multiple-choice and multiple-response items** — each item states how many responses to select. Read the stem for "select TWO" before answering
+- Distractors are options a candidate with incomplete knowledge would choose
+- Closed book, no AI assistance; proctored online or at a Pearson VUE test centre
 - 4 of 6 production scenarios selected at random for your sitting
-- Scaled score 100–1,000; pass at **720**
+- Scaled score 100–1,000; pass at **720**. The score report adds percent-correct by domain (informational only — pass/fail is the total scaled score)
 - Unanswered questions score as incorrect — guess rather than skip
-- Score report with domain breakdowns within about two business days
+- Fee **$125 USD** (partner-tier discounts apply at checkout). Cancel or reschedule up to 24 hours before; later changes forfeit the fee
+- Retakes: wait 14 days after the first fail, 30 after the second, 90 after the third; at most 4 attempts in a rolling 12 months
+- Credential valid **12 months**. On-time renewal is a free, non-proctored assessment on the Partner Academy; a lapsed credential means retaking the full exam
 
 ## The six scenarios
 
@@ -34,7 +39,9 @@ Domain 1 appears most heavily in **1, 3, and 4**.
 
 **In scope:** agentic loops, hub-and-spoke, hooks, CLAUDE.md, MCP, tool descriptions, structured errors, plan mode, CI `-p` mode, few-shot, `tool_use` + JSON Schema, Message Batches API, case-facts blocks, escalation, provenance.
 
-**Out of scope:** fine-tuning, model internals, pricing trivia, competing-model comparisons, general software engineering unrelated to Claude, cloud provisioning, RLHF research.
+**Out of scope** (the guide's explicit list): fine-tuning or training custom models; API authentication, billing, account management; detailed language/framework implementation; deploying or hosting MCP servers; Claude's internal architecture or training; Constitutional AI, RLHF, safety training; embedding models and vector-database internals; **computer use**; **vision / image analysis**; **streaming** and server-sent events; rate limits, quotas, pricing calculations; OAuth, key rotation, auth protocols; **cloud-provider configuration** (AWS, GCP, Azure); benchmarking and model comparisons; **prompt caching implementation** (beyond knowing it exists); token counting and tokenization.
+
+Consequence for the Academy courses: the Bedrock and Google Cloud courses, and course C's computer-use, vision, streaming and caching lessons, feed nothing on this exam.
 
 ## Core technologies named on the blueprint
 

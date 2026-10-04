@@ -1,4 +1,4 @@
-# Mixed practice set (12 questions)
+# Mixed practice set (12 questions + 3 multiple-response)
 
 Cross-domain, exam tempo. 24 minutes. Answers at the bottom.
 
@@ -92,6 +92,36 @@ Covers the six official scenario types. Original items — not copied from Anthr
 
 ---
 
+## Multiple-response items (select TWO)
+
+The real exam mixes these in and each stem says how many to pick. All-or-nothing: both choices must be right. Answers below the first table.
+
+**13. Extraction.** Some invoices have no PO number; the model invents one to fill the field. Select TWO changes that stop the fabrication.
+
+- A) Make `po_number` nullable in the schema
+- B) Retry with the validation error until the field is filled
+- C) Few-shot examples showing `null` for documents that lack the field
+- D) Keep the field required but add "do not guess" to the prompt
+- E) Raise `max_tokens` so the model can look harder
+
+**14. Research.** Two credible sources give different market-size figures, and the final report shows one number with no source. Select TWO changes.
+
+- A) Tell synthesis to keep the more recent figure
+- B) Subagents return claim-source mappings: claim, excerpt, URL, publication date
+- C) Average the two figures
+- D) Report both values, each with its source, in a "contested" section
+- E) Have subagents return prose summaries to save context
+
+**15. Claude Code.** A new teammate's sessions ignore the team conventions that yours follow. Select TWO steps.
+
+- A) Run `/memory` in both sessions to see which memory files are loaded
+- B) Send the teammate a copy of your `~/.claude/CLAUDE.md`
+- C) Move the conventions from `~/.claude/CLAUDE.md` into the project `CLAUDE.md` and commit it
+- D) Turn the conventions into a skill the teammate invokes
+- E) Add a `conventions` key to `.claude/config.json`
+
+---
+
 ## Answers
 
 | # | Ans | Domain | Rule |
@@ -110,5 +140,13 @@ Covers the six official scenario types. Original items — not copied from Anthr
 | 12 | B | 4.3 | Schema via tool_use |
 
 **Score:** ___ / 12
+
+| # | Ans | Domain | Rule |
+|---|---|---|---|
+| 13 | A, C | 4.3 / 4.2 | Nullable fields + few-shot nulls; retry cannot supply absent data (4.4) |
+| 14 | B, D | 5.6 | Keep claim-source mappings; annotate conflicts, never pick or average |
+| 15 | A, C | 3.1 | `/memory` diagnoses; project-level CLAUDE.md fixes (user-level is never shared) |
+
+**Multiple-response score:** ___ / 3
 
 Map misses back to the task file. Re-sit Domain 1 practice if 7, 1, or 9 are wrong — those are the 27% domain.
