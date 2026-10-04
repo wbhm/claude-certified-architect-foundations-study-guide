@@ -67,7 +67,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] 27. Decision rules from memory — 27–28 Sep 2026 (multiple-choice drill, one item per row: 73 / 75; misses 4.10 interacting fixes → one message, 4.19 `--continue` for last session — both in weak-spots)
 - [x] 28. Mixed set: 12 / 12 (target 10+) — 29 Sep 2026
 - [x] 29. Official Academy practice exam — N/A, confirmed 4 Oct 2026: none exists. Substitute: sample questions in the official Exam Guide PDF (anthropic-partners.skilljar.com CCA-F page)
-- [x] 30. Re-read missed task files only — 4 Oct 2026: 3 / 3 VERIFY rows passed cold (1.7, 3.3, 3.5); ledger fully CLOSED, no re-reads needed. — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
+- [ ] 30. Re-read missed task files only — 4 Oct 2026: 3 / 3 VERIFY rows passed cold (1.7, 3.3, 3.5) and closed; reopened the same day for 5 OPEN rows from the mock exam (1.2, 1.7, 2.1, 2.5, 3.1) — each needs two cold passes on different days. — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
 
 ## Scenario check (after phase 4, or as you hit them)
 
