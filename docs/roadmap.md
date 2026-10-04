@@ -135,7 +135,7 @@ Anything the course contradicts, trust the domain files and log it in the course
 - [ ] **H1.** Exercise 4 — research pipeline. *(= step 26)*
 - [ ] **H2.** Recite `cheatsheets/decision-rules.md` from memory. Mark gaps against `cheatsheets/anti-patterns.md`. *(= step 27)*
 - [ ] **H3. GATE:** `practice/mixed-set.md` — target **10/12**. *(= step 28)*
-- [ ] **H4.** Official Anthropic Academy practice exam. *(= step 29)*
+- [ ] **H4.** Exam Guide sample questions (section 9 of `docs/CCA-Foundations-Exam-Guide.pdf`). There is no official practice exam; it was retired at the June 2026 move to Pearson. *(= step 29)*
 - [ ] **H5.** Re-read only the task files you missed. No new topics. *(= step 30)*
 - [ ] **H6.** Book the exam.
 

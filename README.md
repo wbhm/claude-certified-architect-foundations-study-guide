@@ -54,7 +54,7 @@ Code written along with course C lives in [academy/course-c-claude-api](academy/
 
 Tooling is pinned in [mise.toml](mise.toml) — Python 3.12 and the Anthropic `ant` CLI. Run `mise install github:anthropics/anthropic-cli` if the CLI is missing (note: mise's registry shortname `ant` is Apache Ant, not this).
 
-- Anthropic Academy — register, official practice exam, partner courses
+- Anthropic Academy — register, partner courses, Exam Guide (its sample questions replace the practice exam retired in June 2026)
 - Claude Agent SDK docs, Claude Code docs, MCP spec
 - Messages API: `stop_reason`, tools, `tool_choice`
 

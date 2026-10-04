@@ -12,7 +12,7 @@ Follow **[docs/roadmap.md](docs/roadmap.md)** for what to do next; it maps onto 
 - [ ] 4. Read `docs/scenarios.md`
 - [ ] 5. Read `cheatsheets/decision-rules.md`
 
-Official practice exam score: ____  
+Exam Guide sample questions: ___ / 12  
 Exam date: ________
 
 ## Official Academy courses
@@ -61,7 +61,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [ ] 26. Exercise 4 finished (research pipeline)
 - [ ] 27. Decision rules from memory
 - [ ] 28. Mixed set: ___ / 12 (target 10+)
-- [ ] 29. Official Academy practice exam
+- [ ] 29. Exam Guide sample questions (no official practice exam exists)
 - [ ] 30. Re-read missed task files only — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
 
 ## Scenario check (after phase 4, or as you hit them)
