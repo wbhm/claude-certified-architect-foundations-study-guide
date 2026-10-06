@@ -14,6 +14,8 @@ Follow **[docs/roadmap.md](docs/roadmap.md)** for what to do next; it maps onto 
 
 Official practice exam score: n/a — no official practice exam exists (retired at the 30 Jun 2026 Pearson move; the exam guide PDF has sample questions instead)  
 Mock exam (60 items, 4 random scenarios, untimed): **55 / 60 (92%)** — 4 Oct 2026. D1 14/16 · D2 9/11 · D3 11/12 · D4 12/12 · D5 9/9; 8/8 select-TWO. Misses (Q4 1.2, Q21 1.7, Q23 2.1, Q32 3.1, Q42 2.5) logged OPEN in `progress/weak-spots.md`  
+Mock exam 2 (60 items, 4 random scenarios, untimed): **59 / 60 (98%)** — 5 Oct 2026. D1 16/16 · D2 10/11 · D3 12/12 · D4 12/12 · D5 9/9; 8/8 select-TWO. Miss: Q36 2.5 (alias tracing; picked Glob-by-name) logged OPEN in `progress/weak-spots.md`  
+Mock exam 3 (60 items, 4 random scenarios, untimed): **56 / 60 (93%)** — 6 Oct 2026. D1 16/16 · D2 9/11 · D3 11/12 · D4 11/12 · D5 9/9; 7/8 select-TWO. Misses: Q9 2.5 (Edit anchor, picked Grep-replace again), Q16 4.3 (strict mode ≠ semantics), Q25 2.3 (constrained tool vs strip hook), Q56 3.6 (made-up `--no-network` flag) — logged OPEN in `progress/weak-spots.md`  
 Exam date: 9 Oct 2026
 
 ## Official Academy courses
@@ -67,7 +69,7 @@ Source: Anthropic Academy → Prepare for this exam. Details: [docs/academy-cour
 - [x] 27. Decision rules from memory — 27–28 Sep 2026 (multiple-choice drill, one item per row: 73 / 75; misses 4.10 interacting fixes → one message, 4.19 `--continue` for last session — both in weak-spots)
 - [x] 28. Mixed set: 12 / 12 (target 10+) — 29 Sep 2026
 - [x] 29. Official Academy practice exam — N/A, confirmed 4 Oct 2026: none exists. Substitute: sample questions in the official Exam Guide PDF (anthropic-partners.skilljar.com CCA-F page)
-- [ ] 30. Re-read missed task files only — 4 Oct 2026: 3 / 3 VERIFY rows passed cold (1.7, 3.3, 3.5) and closed; reopened the same day for 5 OPEN rows from the mock exam (1.2, 1.7, 2.1, 2.5, 3.1) — each needs two cold passes on different days. — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
+- [ ] 30. Re-read missed task files only — 4 Oct 2026: 3 / 3 VERIFY rows passed cold (1.7, 3.3, 3.5) and closed; reopened the same day for 5 OPEN rows from the mock exam (1.2, 1.7, 2.1, 2.5, 3.1) — each needs two cold passes on different days. 5 Oct 2026: 4 / 5 cold — 1.2, 1.7, 2.1, 3.1 → VERIFY; 2.5 missed again (Grep-replace distractor), stays OPEN. Mock 2 the same day added a second 2.5 OPEN row (alias tracing). 6 Oct 2026: 6 / 6 cold — 1.2, 1.7, 2.1, 3.1 → CLOSED; both 2.5 rows → VERIFY. Mock 3 the same day reopened the 2.5 Edit row (Grep-replace a third time) and added 3 OPEN rows (2.3, 3.6, 4.3). Next: 7 Oct — 2nd pass on the 2.5 aliases row, 1st passes on 2.5 Edit, 2.3, 3.6, 4.3. — driven by your `progress/weak-spots.md` ledger (local, gitignored — create it from [progress/weak-spots-template.md](progress/weak-spots-template.md)): every OPEN/QUEUED/VERIFY row gets one cold item; a fail sends you to the task file named in the row
 
 ## Scenario check (after phase 4, or as you hit them)
 
