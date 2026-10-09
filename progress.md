@@ -16,7 +16,8 @@ Official practice exam score: n/a — no official practice exam exists (retired 
 Mock exam (60 items, 4 random scenarios, untimed): **55 / 60 (92%)** — 4 Oct 2026. D1 14/16 · D2 9/11 · D3 11/12 · D4 12/12 · D5 9/9; 8/8 select-TWO. Misses (Q4 1.2, Q21 1.7, Q23 2.1, Q32 3.1, Q42 2.5) logged OPEN in `progress/weak-spots.md`  
 Mock exam 2 (60 items, 4 random scenarios, untimed): **59 / 60 (98%)** — 5 Oct 2026. D1 16/16 · D2 10/11 · D3 12/12 · D4 12/12 · D5 9/9; 8/8 select-TWO. Miss: Q36 2.5 (alias tracing; picked Glob-by-name) logged OPEN in `progress/weak-spots.md`  
 Mock exam 3 (60 items, 4 random scenarios, untimed): **56 / 60 (93%)** — 6 Oct 2026. D1 16/16 · D2 9/11 · D3 11/12 · D4 11/12 · D5 9/9; 7/8 select-TWO. Misses: Q9 2.5 (Edit anchor, picked Grep-replace again), Q16 4.3 (strict mode ≠ semantics), Q25 2.3 (constrained tool vs strip hook), Q56 3.6 (made-up `--no-network` flag) — logged OPEN in `progress/weak-spots.md`  
-Exam date: 9 Oct 2026
+Exam date: 9 Oct 2026  
+**Real exam: PASS — 893 (pass mark 720)** — 9 Oct 2026, proctored, exam code CCAR-F. Score report: `docs/ccaf-scorereport.pdf` (local, gitignored). Below 100%: sync Messages API vs Message Batches API 0% (4.5), enforce via settings/hooks vs CLAUDE.md 0% (3.1/1.4), extraction accuracy patterns 50% (4.2/4.3), human review routing 67% (5.5), dynamic task decomposition 75% (1.6), structured MCP tool errors 75% (2.2). Every other objective 100%, including all ledger topics (2.5, 1.7, 1.2, 2.1, 3.1 mechanism choice, 3.5). Five of the six gaps were never surfaced by the mocks; the six are logged OPEN in `progress/weak-spots.md` for recertification
 
 ## Official Academy courses
 
